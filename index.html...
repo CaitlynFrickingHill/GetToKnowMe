@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Caitlyn Hill:)</title>
+   <style> 
+      body {color:black;}
+   h1 {color:rgb(255, 133, 237);
+       font-size:60px;
+   }
+   h2 {color:rgb(255, 133, 237);}
+       body{background-color:rgb(189, 246, 255);
+           font-family: monospace;
+       font-family:monospace;
+           font-family: serif;
+           font-family:  monospace;
+           font-size: 25px;
+           font-weight: bold;
+           
+       }
+
+     
+      
+   </style>
+   
+    </head>
+    <body>
+        
+        <h1 id="first">Caitlyn Hill</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li href="#first"><a href="#first"> Basics</a></li>
+            <li href="#Cait"><a href="#Cait">Message from Caitlyn</a></li>
+            
+            
+        </ul>
+        
+        <h2 id="first">The Basics</h2>
+        <h6>Name: Caitlyn Isabel Hill<p>Birthday: Sep. 22, 2005<P> Zodiac sign: Virgo<p> Interests:Sports, ukulele, coding, school, learning, working out <P> Sports teams she's on: Varsity Tennis ( Num 2 Singles ), Fresh. Basketball, Varsity Track ( 400m, 400m relay, high jump, long jump, 100 relay )<P> Grade: Freshman at Desert Mirage Highschool <P> GPA: 4.25/4.3 <p> Programs she's been/are in: G.A.T.E, A.E.E, PUENTE <p> Hates: Ducks, People who have horrible grammar <p> Favorite colors: Baby Blue and Yellow!<p> Ethnicity: Biracial, Mexican/Irish <P> Instagram: <a target="_hey" href="https://www.instagram.com/caitlyn.fricking.hill/?hl=en"> Click here to be taken to it</a>
+      <p> Best friend: Brianna Gomez
+      <p> Siblings: Two, one brother, one sister<p> Where she was born: Coos Bay, Orgeon ( Raised in California ) <p> Favorite movie: Whatever the last movie she watched is always her favorite<p> </p> </h6>
+      
+       
+        <a href="#one"></a>
+        <a href="#two"></a>
+         <h2 id="Cait">Message from Caitlyn</h2>
+        
+        
+        <p> Hey there, Cutie! You now know a lot about me, hopefully you would like to know more! If you would like to become friends, you could go to my  <a target="_hey" href="https://www.instagram.com/caitlyn.fricking.hill/?hl=en">Instagram</a> and we could talk there, or I could give you my number! I hope I didn't scare you off. And yes, I am aware that it is pretty narcissistic to make a website aboout yourself, teehee...Anyways, Stay Safe<P>
+            -Caitlyn hill
+        </p>
+        
+    </body>
+</html>
